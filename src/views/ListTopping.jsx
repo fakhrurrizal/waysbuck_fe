@@ -45,7 +45,7 @@ const ListTopping = () => {
                   <td>{e.title}</td>
                   <td>{e.price}</td>
                   <td>
-                    <img src={e.image} />
+                    <img src={e.image} width="30" />
                   </td>
                   <td>{e.qty}</td>
                   <td style={{ width: "300px" }}>
