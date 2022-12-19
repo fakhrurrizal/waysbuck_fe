@@ -57,7 +57,7 @@ const Header = () => {
   //   refetch()
   // }, [order])
   return (
-    <Navbar bg="light" expand="lg">
+    <Navbar bg="white" expand="lg">
       <Container>
         <Navbar.Brand className="mx-5">
           <Link to="/">
